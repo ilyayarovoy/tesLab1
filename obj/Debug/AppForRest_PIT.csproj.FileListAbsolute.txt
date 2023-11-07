@@ -1,0 +1,50 @@
+C:\Users\chere\OneDrive\Рабочий стол\STUDY\5_semestr\Прикладные ИТ\AppForRest_PIT\AppForRest_PIT\bin\Debug\AppForRest_PIT.exe.config
+C:\Users\chere\OneDrive\Рабочий стол\STUDY\5_semestr\Прикладные ИТ\AppForRest_PIT\AppForRest_PIT\bin\Debug\AppForRest_PIT.exe
+C:\Users\chere\OneDrive\Рабочий стол\STUDY\5_semestr\Прикладные ИТ\AppForRest_PIT\AppForRest_PIT\bin\Debug\AppForRest_PIT.pdb
+C:\Users\chere\OneDrive\Рабочий стол\STUDY\5_semestr\Прикладные ИТ\AppForRest_PIT\AppForRest_PIT\obj\Debug\AppForRest_PIT.csproj.AssemblyReference.cache
+C:\Users\chere\OneDrive\Рабочий стол\STUDY\5_semestr\Прикладные ИТ\AppForRest_PIT\AppForRest_PIT\obj\Debug\AppForRest_PIT.csproj.SuggestedBindingRedirects.cache
+C:\Users\chere\OneDrive\Рабочий стол\STUDY\5_semestr\Прикладные ИТ\AppForRest_PIT\AppForRest_PIT\obj\Debug\AppForRest_PIT.Form1.resources
+C:\Users\chere\OneDrive\Рабочий стол\STUDY\5_semestr\Прикладные ИТ\AppForRest_PIT\AppForRest_PIT\obj\Debug\AppForRest_PIT.Properties.Resources.resources
+C:\Users\chere\OneDrive\Рабочий стол\STUDY\5_semestr\Прикладные ИТ\AppForRest_PIT\AppForRest_PIT\obj\Debug\AppForRest_PIT.csproj.GenerateResource.cache
+C:\Users\chere\OneDrive\Рабочий стол\STUDY\5_semestr\Прикладные ИТ\AppForRest_PIT\AppForRest_PIT\obj\Debug\AppForRest_PIT.csproj.CoreCompileInputs.cache
+C:\Users\chere\OneDrive\Рабочий стол\STUDY\5_semestr\Прикладные ИТ\AppForRest_PIT\AppForRest_PIT\obj\Debug\AppForRest_PIT.exe
+C:\Users\chere\OneDrive\Рабочий стол\STUDY\5_semestr\Прикладные ИТ\AppForRest_PIT\AppForRest_PIT\obj\Debug\AppForRest_PIT.pdb
+C:\Users\chere\OneDrive\Рабочий стол\STUDY\5_semestr\Прикладные ИТ\AppForRest_PIT\AppForRest_PIT\obj\Debug\AppForRest_PIT.ChangePositions.resources
+C:\Users\chere\OneDrive\Рабочий стол\STUDY\5_semestr\Прикладные ИТ\AppForRest_PIT\AppForRest_PIT\obj\Debug\AppForRest_PIT.Manager.resources
+C:\Users\chere\OneDrive\Рабочий стол\STUDY\5_semestr\Прикладные ИТ\AppForRest_PIT\AppForRest_PIT\obj\Debug\AppForRest_PIT.Waiter.resources
+C:\Users\chere\OneDrive\Рабочий стол\Il_KP_AppsForDB\AppForRest_PIT\bin\Debug\AppForRest_PIT.exe.config
+C:\Users\chere\OneDrive\Рабочий стол\Il_KP_AppsForDB\AppForRest_PIT\bin\Debug\AppForRest_PIT.exe
+C:\Users\chere\OneDrive\Рабочий стол\Il_KP_AppsForDB\AppForRest_PIT\bin\Debug\AppForRest_PIT.pdb
+C:\Users\chere\OneDrive\Рабочий стол\Il_KP_AppsForDB\AppForRest_PIT\bin\Debug\System.Data.SQLite.dll
+C:\Users\chere\OneDrive\Рабочий стол\Il_KP_AppsForDB\AppForRest_PIT\bin\Debug\System.Data.SQLite.xml
+C:\Users\chere\OneDrive\Рабочий стол\Il_KP_AppsForDB\AppForRest_PIT\obj\Debug\AppForRest_PIT.csproj.AssemblyReference.cache
+C:\Users\chere\OneDrive\Рабочий стол\Il_KP_AppsForDB\AppForRest_PIT\obj\Debug\AppForRest_PIT.csproj.SuggestedBindingRedirects.cache
+C:\Users\chere\OneDrive\Рабочий стол\Il_KP_AppsForDB\AppForRest_PIT\obj\Debug\AppForRest_PIT.Archive.resources
+C:\Users\chere\OneDrive\Рабочий стол\Il_KP_AppsForDB\AppForRest_PIT\obj\Debug\AppForRest_PIT.ChangePositions.resources
+C:\Users\chere\OneDrive\Рабочий стол\Il_KP_AppsForDB\AppForRest_PIT\obj\Debug\AppForRest_PIT.Form1.resources
+C:\Users\chere\OneDrive\Рабочий стол\Il_KP_AppsForDB\AppForRest_PIT\obj\Debug\AppForRest_PIT.Manager.resources
+C:\Users\chere\OneDrive\Рабочий стол\Il_KP_AppsForDB\AppForRest_PIT\obj\Debug\AppForRest_PIT.Properties.Resources.resources
+C:\Users\chere\OneDrive\Рабочий стол\Il_KP_AppsForDB\AppForRest_PIT\obj\Debug\AppForRest_PIT.Seller.resources
+C:\Users\chere\OneDrive\Рабочий стол\Il_KP_AppsForDB\AppForRest_PIT\obj\Debug\AppForRest_PIT.csproj.GenerateResource.cache
+C:\Users\chere\OneDrive\Рабочий стол\Il_KP_AppsForDB\AppForRest_PIT\obj\Debug\AppForRest_PIT.csproj.CoreCompileInputs.cache
+C:\Users\chere\OneDrive\Рабочий стол\Il_KP_AppsForDB\AppForRest_PIT\obj\Debug\AppForRest_PIT.csproj.CopyComplete
+C:\Users\chere\OneDrive\Рабочий стол\Il_KP_AppsForDB\AppForRest_PIT\obj\Debug\AppForRest_PIT.exe
+C:\Users\chere\OneDrive\Рабочий стол\Il_KP_AppsForDB\AppForRest_PIT\obj\Debug\AppForRest_PIT.pdb
+C:\Users\Ilya\Desktop\KubStu\Мат. программирование\lab\Курсовая\Il_KP_AppsForDB\AppForRest_PIT\bin\Debug\AppForRest_PIT.exe.config
+C:\Users\Ilya\Desktop\KubStu\Мат. программирование\lab\Курсовая\Il_KP_AppsForDB\AppForRest_PIT\bin\Debug\AppForRest_PIT.exe
+C:\Users\Ilya\Desktop\KubStu\Мат. программирование\lab\Курсовая\Il_KP_AppsForDB\AppForRest_PIT\bin\Debug\AppForRest_PIT.pdb
+C:\Users\Ilya\Desktop\KubStu\Мат. программирование\lab\Курсовая\Il_KP_AppsForDB\AppForRest_PIT\bin\Debug\System.Data.SQLite.dll
+C:\Users\Ilya\Desktop\KubStu\Мат. программирование\lab\Курсовая\Il_KP_AppsForDB\AppForRest_PIT\bin\Debug\System.Data.SQLite.xml
+C:\Users\Ilya\Desktop\KubStu\Мат. программирование\lab\Курсовая\Il_KP_AppsForDB\AppForRest_PIT\obj\Debug\AppForRest_PIT.csproj.AssemblyReference.cache
+C:\Users\Ilya\Desktop\KubStu\Мат. программирование\lab\Курсовая\Il_KP_AppsForDB\AppForRest_PIT\obj\Debug\AppForRest_PIT.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ilya\Desktop\KubStu\Мат. программирование\lab\Курсовая\Il_KP_AppsForDB\AppForRest_PIT\obj\Debug\AppForRest_PIT.Archive.resources
+C:\Users\Ilya\Desktop\KubStu\Мат. программирование\lab\Курсовая\Il_KP_AppsForDB\AppForRest_PIT\obj\Debug\AppForRest_PIT.ChangePositions.resources
+C:\Users\Ilya\Desktop\KubStu\Мат. программирование\lab\Курсовая\Il_KP_AppsForDB\AppForRest_PIT\obj\Debug\AppForRest_PIT.Form1.resources
+C:\Users\Ilya\Desktop\KubStu\Мат. программирование\lab\Курсовая\Il_KP_AppsForDB\AppForRest_PIT\obj\Debug\AppForRest_PIT.Manager.resources
+C:\Users\Ilya\Desktop\KubStu\Мат. программирование\lab\Курсовая\Il_KP_AppsForDB\AppForRest_PIT\obj\Debug\AppForRest_PIT.Properties.Resources.resources
+C:\Users\Ilya\Desktop\KubStu\Мат. программирование\lab\Курсовая\Il_KP_AppsForDB\AppForRest_PIT\obj\Debug\AppForRest_PIT.Seller.resources
+C:\Users\Ilya\Desktop\KubStu\Мат. программирование\lab\Курсовая\Il_KP_AppsForDB\AppForRest_PIT\obj\Debug\AppForRest_PIT.csproj.GenerateResource.cache
+C:\Users\Ilya\Desktop\KubStu\Мат. программирование\lab\Курсовая\Il_KP_AppsForDB\AppForRest_PIT\obj\Debug\AppForRest_PIT.csproj.CoreCompileInputs.cache
+C:\Users\Ilya\Desktop\KubStu\Мат. программирование\lab\Курсовая\Il_KP_AppsForDB\AppForRest_PIT\obj\Debug\AppForRest_PIT.csproj.CopyComplete
+C:\Users\Ilya\Desktop\KubStu\Мат. программирование\lab\Курсовая\Il_KP_AppsForDB\AppForRest_PIT\obj\Debug\AppForRest_PIT.exe
+C:\Users\Ilya\Desktop\KubStu\Мат. программирование\lab\Курсовая\Il_KP_AppsForDB\AppForRest_PIT\obj\Debug\AppForRest_PIT.pdb
